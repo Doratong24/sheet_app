@@ -1,0 +1,24 @@
+{
+  "name": "sheet_app",
+  "version": "1.0.0",
+  "description": "First Movie Review App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doratong24/sheet_app.git"
+  },
+  "author": "Kornkitt P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doratong24/sheet_app/issues"
+  },
+  "homepage": "https://github.com/Doratong24/sheet_app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "open": "0.0.5",
+    "path": "^0.12.7"
+  }
+}
